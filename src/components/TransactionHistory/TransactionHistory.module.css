@@ -1,4 +1,4 @@
-.tparent{overflow:scroll}
+.tparent{overflow:auto}
 .table{width:100%;border-collapse:collapse;color:#000;font-size:16px;line-height:1}
 .table thead tr{background-color:#2a2a2a;color:#fff}
 .table thead tr th{width:calc(100% / 3);padding:10px;border:2px solid #000}
