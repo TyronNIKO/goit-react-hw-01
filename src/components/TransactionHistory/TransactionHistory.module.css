@@ -9,5 +9,8 @@
     .table{font-size:36px;}
     .table thead tr th{padding:20px;}
     .table tbody tr td{padding:20px;}
+    .table tbody tr td:first-child{padding-left:40px;}
+}
+@media screen and (min-width:767px){
     .table tbody tr td:first-child{padding-left:140px;}
 }
